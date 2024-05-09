@@ -45,7 +45,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Authors
 
-- **Arabambi Akinyemi E.** - *Initial work* - [2abet](https://github.com/2abet)
+- **Arabambi Akinyemi E.** - *Improvements and Automation* - [2abet](https://github.com/2abet)
+- **Mike Ryan and Josh Ryan** - *Initial brewery process* - [Josh Ryan]([https://github.com/2abet](https://github.com/JoshRyanEOG/i-UG_Education_Node-Red)
 
 ## Acknowledgments
 
